@@ -13,7 +13,7 @@ A secure, customizable password generator built with HTML, CSS, and JavaScript. 
 
 ## 🔗 Demo
 
-[Live Demo](https://yourusername.github.io/random-password-generator)
+[Live Demo](https://mrkasif.github.io/random-password-generator/)
 
 ## 📸 Screenshots
 
